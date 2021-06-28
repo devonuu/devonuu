@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 - 🤔 I’m interested in ```Domain Driven Design``` and ```writing``` ✒. 
 
 - 🔍 More About Me
-- <a href="https://www.notion.so/gonuu-d22c6b99048c465ca063de4b193f3a50" target="_blank"><img src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-- <a href="https://devonuu.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
+- <a href="https://www.notion.so/gonuu-d22c6b99048c465ca063de4b193f3a50" target="_blank"><img src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  <a href="https://devonuu.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
